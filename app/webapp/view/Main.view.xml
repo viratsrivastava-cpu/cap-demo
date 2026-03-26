@@ -1,0 +1,30 @@
+<mvc:View
+    controllerName="myapp.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+
+    <Page title="My First CAP App">
+        <content>
+
+            <VBox
+                alignItems="Center"
+                justifyContent="Center"
+                class="sapUiMediumMarginTop">
+
+                <Title
+                    text="Welcome to My First CAP Project!"
+                    level="H2"
+                    class="sapUiMediumMarginBottom"/>
+
+                <Button
+                    text="Click Me!"
+                    type="Emphasized"
+                    press="onButtonPress"
+                    class="sapUiMediumMarginTop"/>
+
+            </VBox>
+
+        </content>
+    </Page>
+
+</mvc:View>

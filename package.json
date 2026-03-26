@@ -1,0 +1,29 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "description": "My First CAP Project",
+    "engines": {
+        "node": ">=18"
+    },
+    "scripts": {
+        "start": "cds run",
+        "watch": "cds watch"
+    },
+    "dependencies": {
+        "@sap/cds": "",
+        "express": ""
+    },
+    "devDependencies": {
+        "@cap-js/sqlite": "latest"
+    },
+    "cds": {
+        "requires": {
+            "db": {
+                "kind": "sqlite",
+                "credentials": {
+                    "database": ":memory:"
+                }
+            }
+        }
+    }
+}
