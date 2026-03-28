@@ -1,0 +1,11 @@
+ID,brand,model,ownerName,serviceType,mechanicName,status,cost
+1,Maruti,Swift,Ramesh,Oil Change,Suresh,Done,1500
+2,Honda,City,Priya,Brake Service,Mahesh,Done,3500
+3,Toyota,Innova,Ajay,Full Service,Rajesh,Pending,8000
+4,Hyundai,i20,Neha,Tyre Change,Suresh,Done,12000
+5,Tata,Nexon,Vikram,AC Service,Mahesh,InProgress,2500
+6,Ford,EcoSport,Sunita,Battery Replace,Rajesh,Done,4500
+7,Renault,Kwid,Rahul,Oil Change,Suresh,Pending,1200
+8,Kia,Seltos,Anita,Full Service,Mahesh,Done,9000
+9,MG,Hector,Deepak,Wheel Alignment,Rajesh,InProgress,1800
+10,Mahindra,XUV700,Kavita,Brake Service,Suresh,Pending,5000
